@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NinePatch</string>
+    <string name="app_test_variable">2020 McLaren Senna</string>
+    <string name="app_second_variable">Other example text</string>
+    <string name="user_firstname">Giancarlo Andre</string>
+    <string name="user_lastname">Anco Valdivia</string>
+    <string name="user_description">Computer Science student at UCSP. Currently working at Sunarp. Follow me at @giancarloanco</string>
+    <string name="app_text">Bienvenue</string>
+    <string name="app_button">Commencer</string>
+</resources>

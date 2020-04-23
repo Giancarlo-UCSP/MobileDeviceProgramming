@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NinePatch</string>
+    <string name="app_test_variable">McLaren Senna 2020</string>
+    <string name="app_second_variable">Otro texto de ejemplo</string>
+    <string name="user_firstname">Giancarlo Andre</string>
+    <string name="user_lastname">Anco Valdivia</string>
+    <string name="user_description">Estudiante de Ciencia de la Computación en UCSP. Sígueme @giancarloanco</string>
+    <string name="app_text">Welcome</string>
+    <string name="app_button">Start</string>
+</resources>
